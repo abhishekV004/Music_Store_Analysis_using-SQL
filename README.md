@@ -1,9 +1,14 @@
-# SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data
+# 🎵 Music Store Analysis Using SQL
+📝 Project Description:
+The Music Store Sales Analysis project involves querying and analyzing a relational database containing information about a digital music store’s customers, purchases, tracks, artists, albums, and employees. The main objective is to extract actionable insights about customer behavior, sales trends, and inventory management using SQL.
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+## 🔍 Goals:
+* Analyze customer demographics and purchasing behavior.
+* Identify top-selling genres, tracks, and artists.
+* Evaluate employee performance and customer support efficiency.
+* Understand sales trends by country, city, and invoice date.
 
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+Detect opportunities to increase revenue via targeted marketing or catalog expansion.
 
 ## Database and Tools
 * Postgre SQL
